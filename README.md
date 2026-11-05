@@ -1,2 +1,2 @@
 # xhr-fetch-stealth-interceptor
-A zero-dependency client-side network interception engine for SPA automation.
+hook xhr and fetch requests silently
